@@ -49,7 +49,7 @@ This repository contains **11 interactive mathematical calculators** that demons
 ## 🚦 Getting Started
 
 ### Prerequisites
-- Python 3.x installed on your system
+- Python 3.12 installed on your system
 - Jupyter Notebook or JupyterLab
 - Basic understanding of Python syntax
 
